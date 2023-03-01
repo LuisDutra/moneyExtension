@@ -18,10 +18,11 @@
     <PackageTags>money;int;decimal;converter</PackageTags>
     <Title>MoneyExtensionsLuisD</Title>
     <Summary>Extension to convert decimal to integer</Summary>
+    <RootNamespace>MoneyExtension</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="..\Media\icon.jpg" Pack="true" PackagePath="\"/>
+    <None Include="..\Media\icon.jpg" Pack="true" PackagePath="\" />
   </ItemGroup>
 
 </Project>
